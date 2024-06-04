@@ -1,0 +1,5 @@
+print("Hello, world!");
+print(a);
+print(arr[0]);
+print(b + c);
+print("Value of a: " + a);
